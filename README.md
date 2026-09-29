@@ -32,7 +32,7 @@ App.jsx owns the cart and selected product. Pages receive data and functions as 
 
 This is a working shop prototype, with sample prices and enquiry options clearly labelled. It does not claim live stock or accept payments. Confirm actual items, prices, options and brand image reuse rights before publishing. Store selections use illustrative stock photos; official brand photos are collection references, not proof that the exact item is stocked.
 
-Business phone 8639305478 and the Gandhi Road address came from the matching public business listing. Verify the WhatsApp number and address in src/data/shop.js before sharing publicly. Hours, exchange conditions, and delivery terms have not been invented: the app asks customers to check with the shop. No storefront photo was supplied; the hero is a Peaks collection image.
+Business phone xxxx and the Gandhi Road address came from the matching public business listing. Verify the WhatsApp number and address in src/data/shop.js before sharing publicly. Hours, exchange conditions, and delivery terms have not been invented: the app asks customers to check with the shop. No storefront photo was supplied; the hero is a Peaks collection image.
 
 Trident bed/bath references are included as proposed; remove those entries if the shop does not stock these categories. No discount is fabricated: the offer section opens an enquiry.
 
