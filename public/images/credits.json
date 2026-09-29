@@ -1,0 +1,227 @@
+{
+  "project": "UrbanThread local demo",
+  "retrieved": "2026-09-28",
+  "note": "These are illustrative stock photos for fictional sample products. Product naming reflects visible clothing; material, manufacturing, fit and brand claims are not verified. Unsplash short photo-page URLs were derived from the official search-result Download links; all source image URLs were exposed by the primary photo pages or their Download links. Images cropped and resized only.",
+  "licenses": {
+    "Unsplash": {
+      "name": "Unsplash License",
+      "url": "https://unsplash.com/license",
+      "summary": "Free to download, copy, modify and use, including commercial purposes. Attribution appreciated but not required. No sale of substantially unmodified images or compiling a competing stock service."
+    },
+    "Pexels": {
+      "name": "Pexels License",
+      "url": "https://www.pexels.com/license/",
+      "summary": "Free use and modification; attribution appreciated but not required. No unaltered photo resale, implied endorsement, offensive depiction, stock-platform redistribution, or use as a trademark."
+    }
+  },
+  "assets": [
+    {
+      "filename": "product-01.jpg",
+      "category": "Shirts",
+      "suggestedSampleProductName": "Classic White Shirt",
+      "visualDescription": "White collared button-front shirt on a wooden hanger, with a clothing rail and ochre wall behind it.",
+      "photographer": "Nimble Made",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/white-button-up-shirt-on-clothes-hanger-hMMXhKSZk7k",
+      "sourceImage": "https://images.unsplash.com/photo-1603252109303-2751441dd157",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-02.jpg",
+      "category": "Shirts",
+      "suggestedSampleProductName": "Navy Everyday Shirt",
+      "visualDescription": "Navy long-sleeve button shirt with rolled cuffs on a hanger, open over a white T-shirt against a pale wall.",
+      "photographer": "Robert Richman",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/vcTKFYNZop4",
+      "sourceImage": "https://images.unsplash.com/photo-1740711152088-88a009e877bb",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-03.jpg",
+      "category": "Shirts",
+      "suggestedSampleProductName": "Cream Summer Shirt",
+      "visualDescription": "Cream short-sleeve textured shirt with a short button placket and band collar, suspended from a branch.",
+      "photographer": "tian dayong",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/S4f4apZd-hA",
+      "sourceImage": "https://images.unsplash.com/photo-1713881587420-113c1c43e28a",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-04.jpg",
+      "category": "T-Shirts",
+      "suggestedSampleProductName": "Essential White Tee",
+      "visualDescription": "Plain white short-sleeve crew-neck T-shirt on a white hanger against a mottled charcoal wall.",
+      "photographer": "Haryo Setyadi",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/acn5ERAeSb4",
+      "sourceImage": "https://images.unsplash.com/photo-1581655353564-df123a1eb820",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-05.jpg",
+      "category": "T-Shirts",
+      "suggestedSampleProductName": "Washed Charcoal Tee",
+      "visualDescription": "Man wearing a washed charcoal crew-neck T-shirt outdoors in a field of rust-colored grass.",
+      "photographer": "Isaac Mehegan",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/man-wearing-black-crew-neck-t-shirt-fnyUolW6wtM",
+      "sourceImage": "https://images.unsplash.com/photo-1562208512-ec508326186b",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-06.jpg",
+      "category": "T-Shirts",
+      "suggestedSampleProductName": "Relaxed White Tee",
+      "visualDescription": "Man wearing a relaxed white crew-neck T-shirt and cap outdoors.",
+      "photographer": "Mediamodifier",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/ogmenj2NGho",
+      "sourceImage": "https://images.unsplash.com/photo-1622445275463-afa2ab738c34",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-07.jpg",
+      "category": "Jeans",
+      "suggestedSampleProductName": "Black Denim Jeans",
+      "visualDescription": "A folded pair of very dark black denim jeans with a turned-up cuff and tan back-waist patch against a pale background.",
+      "photographer": "TuanAnh Blue",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/muo8Zdkz_4w",
+      "sourceImage": "https://images.unsplash.com/photo-1718252540617-6ecda2b56b57",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-08.jpg",
+      "category": "Jeans",
+      "suggestedSampleProductName": "Classic Blue Jeans",
+      "visualDescription": "Close-up of a stack of three folded medium-blue denim jeans; back pockets and contrast stitching are visible.",
+      "photographer": "Castorly Stock",
+      "provider": "Pexels",
+      "sourcePage": "https://www.pexels.com/photo/blue-denim-jeans-4109798/",
+      "sourceImage": "https://images.pexels.com/photos/4109798/pexels-photo-4109798.jpeg",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-09.jpg",
+      "category": "Trousers",
+      "suggestedSampleProductName": "Relaxed Black Trousers",
+      "visualDescription": "Cropped studio outfit photo showing black relaxed trousers with cuffed hems, a cream overshirt, and black canvas shoes.",
+      "photographer": "cottonbro studio",
+      "provider": "Pexels",
+      "sourcePage": "https://www.pexels.com/photo/a-man-wearing-a-dress-shirt-and-black-pants-7764014/",
+      "sourceImage": "https://images.pexels.com/photos/7764014/pexels-photo-7764014.jpeg",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-10.jpg",
+      "category": "Trousers",
+      "suggestedSampleProductName": "Cream Tailored Trousers",
+      "visualDescription": "Waist and upper-leg detail of cream tailored trousers worn with a tucked-in white button shirt outdoors.",
+      "photographer": "SALOMON BYUMA",
+      "provider": "Pexels",
+      "sourcePage": "https://www.pexels.com/photo/man-in-white-long-sleeves-and-beige-pants-9322977/",
+      "sourceImage": "https://images.pexels.com/photos/9322977/pexels-photo-9322977.jpeg",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-11.jpg",
+      "category": "Jackets",
+      "suggestedSampleProductName": "Classic Denim Jacket",
+      "visualDescription": "Male model kneeling in a studio wearing a medium-blue denim jacket over a white T-shirt with matching denim jeans.",
+      "photographer": "cottonbro studio",
+      "provider": "Pexels",
+      "sourcePage": "https://www.pexels.com/photo/man-in-blue-denim-jacket-and-blue-denim-jeans-sitting-on-white-surface-6764725/",
+      "sourceImage": "https://images.pexels.com/photos/6764725/pexels-photo-6764725.jpeg",
+      "license": "Pexels License",
+      "licenseUrl": "https://www.pexels.com/license/",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "product-12.jpg",
+      "category": "Jackets",
+      "suggestedSampleProductName": "Black Biker Jacket",
+      "visualDescription": "Close-up of a black leather biker-style jacket with silver zip hardware, worn over a black shirt.",
+      "photographer": "Adrian Ordonez",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/man-holding-his-leather-jacket-P0W27GRvyww",
+      "sourceImage": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        600,
+        750
+      ]
+    },
+    {
+      "filename": "hero.jpg",
+      "category": "Hero",
+      "suggestedSampleProductName": "Everyday style, in motion",
+      "visualDescription": "Man posing in motion in a sunlit urban courtyard, wearing an open dusty-rose overshirt, white T-shirt, beige pleated trousers, and sneakers.",
+      "photographer": "sour moha",
+      "provider": "Unsplash",
+      "sourcePage": "https://unsplash.com/photos/man-in-white-dress-shirt-and-brown-pants-sitting-on-brown-sand-during-daytime-v4KCFgCVVR0",
+      "sourceImage": "https://images.unsplash.com/photo-1598354492261-864a6c246e90",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "dimensions": [
+        1100,
+        1648
+      ]
+    }
+  ]
+}
